@@ -4,6 +4,7 @@
 
 #define   MAX_COUNT  200
 #define   BUF_SIZE   100
+//Credit to: Shail Pokharel
 
 void  main(void)
 {

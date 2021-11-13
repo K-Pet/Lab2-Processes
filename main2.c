@@ -3,6 +3,8 @@
 
 #define   MAX_COUNT  200
 
+//Credit to: Shail Pokharel
+
 void  ChildProcess(void);                /* child process prototype  */
 void  ParentProcess(void);               /* parent process prototype */
 
